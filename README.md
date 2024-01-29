@@ -1,2 +1,2 @@
 # task5day8
-C learning
+1. maxmin
