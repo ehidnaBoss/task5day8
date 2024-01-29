@@ -1,3 +1,5 @@
+/* Make corrections in the src/squaring.c program so it compiles itself and works correctly (receives an array of integers via stdin, squares them and outputs the result to stdout). In case of incorrect input, you must output n/a. Decreasing the decomposition is not allowed–you can add functions if needed, but you cannot delete them.*/
+
 #include <stdio.h>
 #define NMAX 10
 
